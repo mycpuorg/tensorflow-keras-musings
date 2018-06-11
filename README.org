@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=ACmydtFDTGs
 *** This was a while ago and life went on.
 *** Recently, I came across a few things on the Internet and turns out there is a pre-trained Keras model that can be used with TensorFlow to basically code up the heart of this app.
 *** Here are my results:
-[[file:/home/manoj/my/mypython/deep_learning_jsr/hotdog1.png]]
-[[file:/home/manoj/my/mypython/deep_learning_jsr/hotdog2.png]]
-[[file:/home/manoj/my/mypython/deep_learning_jsr/not_hotdog1.png]]
-[[file:/home/manoj/my/mypython/deep_learning_jsr/not_hotdog2.png]]
+[[file:./hotdog1.png]]
+[[file:./hotdog2.png]]
+[[file:./not_hotdog1.png]]
+[[file:./not_hotdog2.png]]
